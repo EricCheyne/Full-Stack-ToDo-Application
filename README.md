@@ -202,7 +202,3 @@ NODE_ENV="development"
 ## License
 
 MIT
-
-## Author
-
-Full Stack SaaS Style Product
